@@ -1,6 +1,6 @@
 # ProgramacionOrientadaObjetos
 Ejercicios desarrollados en Laboratorio de Programacion
 
-Primer Paso
+# Primer Paso
 Crear el repositorio en GitHub
 
